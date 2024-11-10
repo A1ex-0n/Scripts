@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua"))() 
-loadstring(game:HttpGet('https://darkscripts.space/scripts/9785994742.lua', true))()
+loadstring(game:HttpGet("https://egorikusa.space/e5c3249441b0da27b0e940ba.lua", true))()
