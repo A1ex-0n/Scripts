@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://overdrive-h.ohd.workers.dev/?d=loader"))() 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/CandyFarm', true))()
+loadstring(game:HttpGet("https://overdrive-h.ohd.workers.dev/?d=loader"))() 
