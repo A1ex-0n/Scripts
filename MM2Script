@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/UniversalScript
-https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/CandyFarm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/UniversalScript"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/CandyFarm"))()
