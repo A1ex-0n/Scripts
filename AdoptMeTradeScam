@@ -1,0 +1,2 @@
+loadstring(game:HttpGet(('https://pastefy.app/H6YSLhIa/raw'), true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/FreeVersion/main/Source/AdoptMe2"))()
