@@ -1,2 +1,1 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/AdoptMeAutofarm'))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/FreeVersion/main/Source/AdoptMe2"))()
