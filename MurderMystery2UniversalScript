@@ -1,3 +1,2 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2'))()  
-loadstring(game:HttpGet('https://raw.githubusercontent.com/A1ex-0n/Scripts/refs/heads/main/XhubMM2', true))()
 loadstring(game:HttpGet('https://darkscripts.space/scripts/ec236079-04c2-41ce-add5-de6132e1bd70_815896821812690946.lua',true))()                              
