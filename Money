@@ -1,0 +1,5 @@
+local Money = 999999999 -- Change to your money also this is CLIENT (troll friends idk)
+
+local Local = Game.Players.LocalPlayer
+
+Local.PlayerGui.BucksIndicatorApp.CurrencyIndicator.Container.Amount.Text = Money
